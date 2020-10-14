@@ -6,9 +6,9 @@
   "author": "zce <w@zce.me> (https://zce.me)",
   "license": "MIT",
   "scripts": {
-    "clean": "gulp clean",
-    "build": "gulp build",
-    "develop": "gulp develop"
+    "clean": "create-pages clean",
+    "build": "create-pages build",
+    "develop": "create-pages develop"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
